@@ -1,0 +1,21 @@
+bot:
+  brain:
+    allow_system_aiml: true
+    allow_learn_aiml: true
+    allow_learnf_aiml: false
+    empty_on_learn: true
+    reload: false
+    readonly: false
+    aiml_dirs: "AIML"
+    set_files: "../Sets"
+
+  aiml:
+    allow_system_aiml: true
+    allow_learn_aiml: true
+
+  encoding: utf-8  # Specify the encoding for Arabic characters
+
+
+  language: ar  # Specify the language code for Arabic (ar)
+
+

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<aiml version="2.0">
+	<category>
+		<pattern> # <set>questiontools</set> # <set>members</set> #<set>academicaffairs</set>#</pattern>
+		<template>
+            د. رائد حسين الحجار: نائب الرئيس للشؤون الأكاديمية                                                            
+			د. يوسف يوسف : مساعد نائب الرئيس الشؤون الاكاديمية - الحرازين
+			د. زاهر جبر الحداد : مساعد نائب الرئيس الشؤون الاكاديمية - الوحدة
+			د. محمود الشامي : عميد كلية الآداب والعلوم الإنسانية
+			أ.د. علي الأسطل : عميد كلية العلوم التطبيقية
+			أ.د. فؤاد عياد : عميد كلية التربية
+			د. عاهد حلس : عميد كلية الفنون الجميلة
+			د. أحمد يوسف حمدان : عميد كلية التربية الرياضية والبدنية
+			د. غسان حرب : عميد كلية الإعلام
+			. عبدالناصر ريان :عميد كلية مجتمع الأقصى للدراسات المتوسطة
+			. أيوب الدلو : عميد كلية العلوم الطبية
+			د.خالد شرف : عميد كلية الحاسبات وتكنولوجيا المعلومات
+
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # عميد # <set>collage</set># <set>literaturefaculty</set>#</pattern>
+		<template>
+    		د. محمود الشامي
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # عميد # <set>collage</set># <set>appliedsciencefaculty</set>#</pattern>
+		<template>
+    		أ.د. علي الاسطل
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # عميد # <set>collage</set># <set>edufaculty</set>#</pattern>
+		<template>
+    		أ.د. فؤاد عياد
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # عميد # <set>collage</set># <set>artsfaculty</set>#</pattern>
+		<template>
+    		د. عاهد حلس
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # عميد # <set>collage</set># <set>pemajor</set>#</pattern>
+		<template>
+    		د. أحمد يوسف حمدان
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # عميد # <set>collage</set># <set>الاعلام</set>#</pattern>
+		<template>
+    		د. غسان حرب
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # عميد # <set>collage</set># الإعلام#</pattern>
+		<template>
+    		د. غسان حرب
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # عميد # <set>collage</set># مجتمع الاقصى #</pattern>
+		<template>
+    		د. عبدالناصر ريان
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # عميد # <set>collage</set>#<set>laboratorysciencesmajor</set>#</pattern>
+		<template>
+    		د. أيوب الدلو 
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # عميد # <set>collage</set># <set>itfaculty</set> #</pattern>
+		<template>
+			د.خالد شرف
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # <set>members</set> # <set>administrativeandfinancialaffairs</set> #</pattern>
+		<template>
+    		د. فايق رمضان الناعوق : نائب رئيس الجامعة للشؤون الإدارية والمالية
+			د. شاكر محمد أبو هربيد : مساعد النائب الإداري والمالي
+			د. نضال فريد عبد الله : مساعد النائب الإداري والمالي
+			د. حسين موسى  أبو جزر: مساعد النائب الإداري والمالي
+			أ. صفاء حسن رضوان : مدير مكتب النائب الإداري والمالي
+			أ. أسامة معين بعلوشة : إداري الشؤون الإدارية والمالية
+			أ. أنس رزق الحرتاني : سكرتير مساعد النائب الإداري 
+			أ. محمد نعيم العصار : سكرتير مساعد النائب الإداري
+			أ. محمد حمدي العقاد : سكرتير مساعد النائب الإداري
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # نائب رئيس # <set>administrativeandfinancialaffairs</set>#</pattern>
+		<template>
+			د. فايق رمضان الناعوق
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set>  # الاداري #نائب # مدير مكتب#</pattern>
+		<template>
+			أ. صفاء حسن رضوان
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set> # <set>members</set> #تكنولوجيا المعلومات#مركز#</pattern>
+		<template>
+            د.م. يوسف العبد حمودة : رئيس مركز تكنولوجيا المعلومات و مدير دائرة الشبكات والبنية التحتية
+			أ. صابر عليان أبو عمرة : مدير دائرة نظم المعلومات والبوابة الإلكترونية
+			أ. يوسف سليم أبو زيد : مدير دائرة المتابعة والدعم الفني
+			أ. حسن الحلاق : مشرف قواعد البيانات
+			أ. سائد عبيد : مشرف الموقع الإلكتروني
+
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set> #تكنولوجيا المعلومات#مركز#رئيس#</pattern>
+		<template>
+           د.م. يوسف العبد حمودة 
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set> #البوابة الالكترونية#دائرة#مدير#</pattern>
+		<template>
+           أ. صابر عليان أبو عمرة 
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set> #نظم المعلومات#دائرة#مدير#</pattern>
+		<template>
+           أ. صابر عليان أبو عمرة 
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set> #الدعم الفني#دائرة#مدير#</pattern>
+		<template>
+           أ. يوسف سليم أبو زيد
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set> #متابعة#دائرة#مدير#</pattern>
+		<template>
+           أ. يوسف سليم أبو زيد
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set> #قواعد البيانات#مشرف#</pattern>
+		<template>
+           أ. حسن الحلاق
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set> #موقع الجامعة#مشرف#</pattern>
+		<template>
+           أ. سائد عبيد
+        </template> 
+	</category>
+
+	<category>
+		<pattern> # <set>questiontools</set> #الموقع الالكتروني#مشرف#</pattern>
+		<template>
+           أ. سائد عبيد
+        </template> 
+	</category>
+
+</aiml>
